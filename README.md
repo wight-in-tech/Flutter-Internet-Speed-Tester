@@ -58,14 +58,14 @@ Flutter-Internet-Speed-Tester/
    ```bash
    git clone https://github.com/wight-in-tech/Flutter-Internet-Speed-Tester.git
    cd Flutter-Internet-Speed-Tester
+
 2. **Install dependencies**:
 
-```bash
-flutter pub get
-3. **Install dependencies**:
-
-```bash
-flutter pub get
+   ```bash
+    flutter pub get
+3.**Run the app**:
+  ```bash
+      flutter run
 
 
 
